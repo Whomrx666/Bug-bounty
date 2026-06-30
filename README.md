@@ -1,9 +1,9 @@
 # Bug-bounty
-![Bug-bounty preview](Bug bounty.jpg)
+![Bug-bounty preview](Bug-bounty.jpg)
 
 <p align="center">
   <strong>Advanced Bug Bounty & Security Scanner for Termux (No Root)</strong><br>
-  <em>"35 realworld security checks – from subdomains to WAF detection – in a cyberpunk neon shell." — Mr.X</em>
+  <em>"35 real world security checks – from subdomains to WAF detection – in a cyberpunk neon shell." — Mr.X</em>
 </p>
 
 ## Introduction
