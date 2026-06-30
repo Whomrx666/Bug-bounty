@@ -29,7 +29,7 @@ $ python3 bug-bounty.py
 
 Features
 
-- **35 RealWorld Security Modules** – From HTTP status and SSL expiry to subdomain discovery, XSS, SQLi, CORS, clickjacking, port scanning, and WAF detection.
+- **35 real World Security Modules** – From HTTP status and SSL expiry to subdomain discovery, XSS, SQLi, CORS, clickjacking, port scanning, and WAF detection.
 - **Termux Optimized** – Fully functional on Android with no root required.
 - **Cyberpunk Neon UI** – Boot animation, twocolumn menu, colorcoded output, and risk classification.
 - **Multiple Report Formats** – Export session results as JSON, HTML, CSV, or plain text.
