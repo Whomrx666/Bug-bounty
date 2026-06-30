@@ -31,7 +31,7 @@ Features
 
 - **35 real World Security Modules** – From HTTP status and SSL expiry to subdomain discovery, XSS, SQLi, CORS, clickjacking, port scanning, and WAF detection.
 - **Termux Optimized** – Fully functional on Android with no root required.
-- **Cyberpunk Neon UI** – Boot animation, twocolumn menu, colorcoded output, and risk classification.
+- **Cyberpunk Neon UI** – Boot animation, two column menu, colorcoded output, and risk classification.
 - **Multiple Report Formats** – Export session results as JSON, HTML, CSV, or plain text.
 - **Comprehensive Vulnerability Database** – Each module includes risk description and mitigation advice.
 - **Quick Scan & Full Scan** – Run all 35 checks at once or a focused quick scan (top 15).
