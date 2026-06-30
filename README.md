@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction
-**Bug-bounty** is a powerfull all in one reconnaissance and vulnerability assessment tool built for mobile and terminal environments.With **35 integrated security modules**, it performs deep analysis of web targets, including subdomain enumeration, SSL/TLS inspection, header analysis, XSS/SQLi detection, CORS misconfigurations, directory bruteforcing, and much more – all without requiring root privileges.
+**Bug-bounty** is a powerfull all in one reconnaissance and vulnerability assessment tool built for mobile and terminal environments.With **35 integrated security modules**, it performs deep analysis of web targets, including subdomain enumeration, SSL/TLS inspection, header analysis, XSS/SQLi detection, CORS misconfigurations, directory bruteforcing, and much more – all without requiring root privileges.
 
 The tool features a **borderless neonstyled UI**, runs smoothly on **Termux (Android)** , Linux, and any Pythonsupported platform, and produces detailed reports in JSON, HTML, CSV, or plain text.
 
