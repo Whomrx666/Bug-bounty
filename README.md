@@ -1,5 +1,5 @@
 # Bug-bounty
-![Preview](https://via.placeholder.com/800x200?text=CyberPunk+Neon+Bug+Bounty+Assistant)
+![Bug-bounty preview](Bug bounty.jpg)
 
 <p align="center">
   <strong>Advanced Bug Bounty & Security Scanner for Termux (No Root)</strong><br>
