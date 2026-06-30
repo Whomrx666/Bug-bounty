@@ -38,7 +38,7 @@ Features
 - **Parallel Port Scanning** – Fast scanning of top 20 ports using multithreading.
 - **DNS & Subdomain Enumeration** – Uses crt.sh and common subdomain lists.
 - **Smart Parameter Discovery** – Extracts parameters from forms, URLs, and JavaScript.
-- **CacheControl & MIME Sniffing Checks** – Helps prevent caching of sensitive data and MIMEbased attacks.
+- **Cache Control & MIME Sniffing Checks** – Helps prevent caching of sensitive data and Mime based attacks.
 
 ## Instructions
 
