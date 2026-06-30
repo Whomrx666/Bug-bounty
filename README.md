@@ -3,11 +3,11 @@
 
 <p align="center">
   <strong>Advanced Bug Bounty & Security Scanner for Termux (No Root)</strong><br>
-  <em>"35 realworld security checks – from subdomains to WAF detection – in a cyberpunk neon shell." — Mr.X</em>
+  <em>"35realworld security checks â€“ from subdomains to WAF detection â€“ in a cyberpunk neon shell." â€” Mr.X</em>
 </p>
 
 ## Introduction
-**Bug-bounty** is a powerful, allinone reconnaissance and vulnerability assessment tool built for mobile and terminal environments. With **35 integrated security modules**, it performs deep analysis of web targets, including subdomain enumeration, SSL/TLS inspection, header analysis, XSS/SQLi detection, CORS misconfigurations, directory bruteforcing, and much more – all without requiring root privileges.
+**Bug-bounty** is a powerful, allinone reconnaissance and vulnerability assessment tool built for mobile and terminal environments. With **35 integrated security modules**, it performs deep analysis of web targets, including subdomain enumeration, SSL/TLS inspection, header analysis, XSS/SQLi detection, CORS misconfigurations, directory bruteforcing, and much more â€“ all without requiring root privileges.
 
 The tool features a **borderless neonstyled UI**, runs smoothly on **Termux (Android)** , Linux, and any Pythonsupported platform, and produces detailed reports in JSON, HTML, CSV, or plain text.
 
@@ -29,29 +29,29 @@ $ python3 bug-bounty.py
 
 Features
 
-- **35 RealWorld Security Modules** – From HTTP status and SSL expiry to subdomain discovery, XSS, SQLi, CORS, clickjacking, port scanning, and WAF detection.
-· **Termux Optimized** – Fully functional on Android with no root required.
-· **Cyberpunk Neon UI** – Boot animation, twocolumn menu, colorcoded output, and risk classification.
-· **Multiple Report Formats** – Export session results as JSON, HTML, CSV, or plain text.
-· **Comprehensive Vulnerability Database** – Each module includes risk description and mitigation advice.
-· **Quick Scan & Full Scan** – Run all 35 checks at once or a focused quick scan (top 15).
-· **Parallel Port Scanning** – Fast scanning of top 20 ports using multithreading.
-· **DNS & Subdomain Enumeration** – Uses crt.sh and common subdomain lists.
-· **Smart Parameter Discovery** – Extracts parameters from forms, URLs, and JavaScript.
-· **CacheControl & MIME Sniffing Checks** – Helps prevent caching of sensitive data and MIMEbased attacks.
+- **35 RealWorld Security Modules** â€“ From HTTP status and SSL expiry to subdomain discovery, XSS, SQLi, CORS, clickjacking, port scanning, and WAF detection.
+Â· **Termux Optimized** â€“ Fully functional on Android with no root required.
+Â· **Cyberpunk Neon UI** â€“ Boot animation, twocolumn menu, colorcoded output, and risk classification.
+Â· **Multiple Report Formats** â€“ Export session results as JSON, HTML, CSV, or plain text.
+Â· **Comprehensive Vulnerability Database** â€“ Each module includes risk description and mitigation advice.
+Â· **Quick Scan & Full Scan** â€“ Run all 35 checks at once or a focused quick scan (top 15).
+Â· **Parallel Port Scanning** â€“ Fast scanning of top 20 ports using multithreading.
+Â· **DNS & Subdomain Enumeration** â€“ Uses crt.sh and common subdomain lists.
+Â· **Smart Parameter Discovery** â€“ Extracts parameters from forms, URLs, and JavaScript.
+Â· **CacheControl & MIME Sniffing Checks** â€“ Helps prevent caching of sensitive data and MIMEbased attacks.
 
 ## Instructions
 
 1. Install the tool using the commands above.
 2. Run python3 bug-bounty.py to launch the neon interface.
 3. Enter the target URL (e.g., https://example.com or example.com).
-4. Select a module by number (1–35), or use special options:
-   · 36 – Run all 35 modules
-   · 37 – Quick scan (15 essential checks)
-   · 38 – View vulnerability database (risks & mitigations)
-   · 39 – Export report in your preferred format (JSON, HTML, CSV, TXT)
-   · 00 – Exit
-5. Follow onscreen prompts – most modules work automatically; some may ask for additional input (e.g., port ranges for scanning, but currently fixed to top 20 ports).
+4. Select a module by number (1â€“35), or use special options:
+   Â· 36 â€“ Run all 35 modules
+   Â· 37 â€“ Quick scan (15 essential checks)
+   Â· 38 â€“ View vulnerability database (risks & mitigations)
+   Â· 39 â€“ Export report in your preferred format (JSON, HTML, CSV, TXT)
+   Â· 00 â€“ Exit
+5. Follow onscreen prompts â€“ most modules work automatically; some may ask for additional input (e.g., port ranges for scanning, but currently fixed to top 20 ports).
 6. Review results displayed with colorcoded statuses (Safe / Verify / Unknown) and detailed mitigation tips.
 7. Export your report after scanning to keep a record of findings.
 
