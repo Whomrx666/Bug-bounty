@@ -51,7 +51,7 @@ Features
    · 38 – View vulnerability database (risks & mitigations)
    · 39 – Export report in your preferred format (JSON, HTML, CSV, TXT)
    · 00 – Exit
-5. Follow onscreen prompts – most modules work automatically; some may ask for additional input (e.g., port ranges for scanning, but currently fixed to top 20 ports).
+5. Follow on screen prompts – most modules work automatically; some may ask for additional input (e.g., port ranges for scanning, but currently fixed to top 20 ports).
 6. Review results displayed with color coded statuses (Safe / Verify / Unknown) and detailed mitigation tips.
 7. Export your report after scanning to keep a record of findings.
 
